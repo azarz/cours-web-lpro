@@ -33,7 +33,7 @@ Le site web sera constitué de 3 pages :
       * Seules les données pour les 15 premiers jours de mars sont disponibles (mois 3, jour de 1 à 15)
 (en bonus, codé à l'aide de PHP + SQL)
 
-- Une page contenant une carte affichant les POI "Remonter le temps" de l'application Cartes IGN sur le fond "Plan IGN". Les POI sont cliquables, affichant une pop-up avec toutes les infos de propriété et un lien avec vers le site https://remonterletemps.ign.fr/comparer/ ouvrant directement la bonne vue. Données disponibles dans le dossier data [data/poi_rlt.json](data/poi_rlt.json). En bonus, la popup contient également un bouton qui change la vie directement sur la page à l'aide du plugin https://github.com/phloose/leaflet-compare
+- Une page contenant une carte affichant les POI "Remonter le temps" de l'application Cartes IGN sur le fond "Plan IGN". Les POI sont cliquables, affichant une pop-up avec toutes les infos de propriété et un lien avec vers le site https://remonterletemps.ign.fr/comparer/ ouvrant directement la bonne vue. Données disponibles dans le dossier data [data/poi_rlt.json](data/poi_rlt.json). En bonus, la popup contient également un bouton qui change la vie directement sur la page à l'aide du plugin https://github.com/digidem/leaflet-side-by-side
 
 - Les 3 pages seront reliées entre elles via un menu commun (latéral ou en en-tête) comprenant tous les liens du site.
 
@@ -57,7 +57,7 @@ Carto web /8
 - affichage des POI sur la carte (utilisation de fetch) /2
 - remplissage des pop-ups des POI /2
 - lien dans les pop-ups vers le site remonter le temps sur la vue correcte /2
-bonus : bouton dans la popup pour modifier la vue carto à l'aide du plugin leaflet-compare (2pts)
+bonus : bouton dans la popup pour modifier la vue carto à l'aide du plugin leaflet-side-by-side (2pts)
 
 Menu navigation :
 Si pas présent, -2 points 
