@@ -1,6 +1,6 @@
-# Cours de cartographie Web pour les Licence Pro de l'ENSG, groupe experts
+# Cours de cartographie Web pour les Licence Pro de l'ENSG, groupe initiation
 
-Pour le suivi du cours du groupe initiation : [README-initiation.md](README-initiation.md)
+Pour le suivi du cours du groupe experts : [README.md](README.md)
 
 ## Référence cours magistral
 Le cours magistral s'appuie sur le super cours de Vincent De Olivera [@iamvdo](https://github.com/iamvdo), le web de A à Z : [https://web.iamvdo.me/](https://web.iamvdo.me/).
@@ -8,20 +8,24 @@ Le cours magistral s'appuie sur le super cours de Vincent De Olivera [@iamvdo](h
 Jour 1 :
 - HTML
 - CSS
+  + Langage
+  + Sélecteurs
+  + Propriétés
 
 Jour 2 :
+- CSS
+  + Positionnement
+  + Responsive Web Design
+  + Outils
 - Javascript
   + Principe
   + Langage
-  + Langage avancé
-    * Généralités
-    * ES6
-    * DOM
-    * API HTML 5
-    * Promises
-    * API Fetch
 
 Jour 3 :
+- Javascript
+  + Langage avancé
+    * DOM
+    * API Fetch
 - Webmapping
 
 Jour 4 :
