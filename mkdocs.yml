@@ -1,0 +1,41 @@
+site_name: Internet & données géographiques
+nav:
+    - Accueil: index.md
+    - Déroulement des séances groupe initiation: déroulé-initiation.md
+    - Déroulement des séances groupe experts: déroulé-experts.md
+    - Sujet du projet: sujet-projet.md
+    - Ressources:
+        - Données POI RLT: poi_rlt.json
+
+markdown_extensions:
+    - attr_list
+    - pymdownx.emoji:
+        emoji_index: !!python/name:material.extensions.emoji.twemoji
+        emoji_generator: !!python/name:material.extensions.emoji.to_svg
+    - fenced_code
+    - toc:
+        baselevel: 2
+    - pymdownx.highlight:
+        anchor_linenums: true
+        line_spans: __span
+        pygments_lang_class: true
+    - pymdownx.inlinehilite
+    - pymdownx.snippets
+    - pymdownx.superfences:
+        custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+    - admonition
+    - pymdownx.details
+
+theme:
+  name: material
+  language: fr
+  palette:
+    primary: blue grey
+    accent: deep purple
+  features:
+    - content.code.copy
+plugins:
+  - search
