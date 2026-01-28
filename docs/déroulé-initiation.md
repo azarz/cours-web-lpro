@@ -4,6 +4,7 @@
 Le cours magistral s'appuie sur le super cours de Vincent De Olivera [@iamvdo](https://github.com/iamvdo), le web de A à Z : [https://web.iamvdo.me/](https://web.iamvdo.me/).
 
 Jour 1 :
+
 - HTML
 - CSS
   + Langage
@@ -11,6 +12,7 @@ Jour 1 :
   + Propriétés
 
 Jour 2 :
+
 - CSS
   + Positionnement
   + Responsive Web Design
@@ -20,6 +22,7 @@ Jour 2 :
   + Langage
 
 Jour 3 :
+
 - Javascript
   + Langage avancé
     * DOM
@@ -27,6 +30,7 @@ Jour 3 :
 - Webmapping
 
 Jour 4 :
+
 - Finalisation du projet
 
 
