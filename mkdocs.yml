@@ -35,6 +35,7 @@ theme:
   palette:
     primary: green
     accent: amber
+  logo: logo.svg
   features:
     - content.code.copy
 plugins:
