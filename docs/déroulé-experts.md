@@ -11,15 +11,15 @@ Jour 1 :
 Jour 2 :
 
 - Javascript
-  + Principe
-  + Langage
-  + Langage avancé
-    * Généralités
-    * ES6
-    * DOM
-    * API HTML 5
-    * Promises
-    * API Fetch
+    + Principe
+    + Langage
+    + Langage avancé
+        * Généralités
+        * ES6
+        * DOM
+        * API HTML 5
+        * Promises
+        * API Fetch
 
 Jour 3 :
 

@@ -7,26 +7,26 @@ Jour 1 :
 
 - HTML
 - CSS
-  + Langage
-  + Sélecteurs
-  + Propriétés
+    + Langage
+    + Sélecteurs
+    + Propriétés
 
 Jour 2 :
 
 - CSS
-  + Positionnement
-  + Responsive Web Design
-  + Outils
+    + Positionnement
+    + Responsive Web Design
+    + Outils
 - Javascript
-  + Principe
-  + Langage
+    + Principe
+    + Langage
 
 Jour 3 :
 
 - Javascript
-  + Langage avancé
-    * DOM
-    * API Fetch
+    + Langage avancé
+        * DOM
+        * API Fetch
 - Webmapping
 
 Jour 4 :
