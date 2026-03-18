@@ -16,7 +16,7 @@ Jour 2 :
 - CSS
     + Positionnement
     + Responsive Web Design
-    + Outils
+
 - Javascript
     + Principe
     + Langage
