@@ -8,6 +8,7 @@ Le site web sera constitué de 2 pages :
     + Une entête avec votre nom et ville de résidence
     + Un corps avec vos expériences professionnelles et formations
     + Une section listant vos compétences
+    + Un bouton qui fait appel à du javascript pour lancer l'impression du CV (qui ne doit pas apparaître sur le PDF !)
 
 - Une page contenant une carte affichant les POI "Remonter le temps" de l'application Cartes IGN sur le fond WMTS "Plan IGN".
     + Les POI sont cliquables, affichant une pop-up avec les infos des propriétés `commune`, `département`, `accroche`, `titre` et `description` mises en forme.
