@@ -8,6 +8,7 @@ Le site web sera constitué de 2 pages
 Cette page utilisant HTML et CSS contiendra votre CV facilement convertible en PDF, utile pour vos demandes de stage
 
 Cette page devra inculre :
+
 + Une entête avec votre nom et ville de résidence
 + Un corps avec vos expériences professionnelles et formations
 + Une section listant vos compétences
@@ -19,6 +20,7 @@ Le positionnement des différents éléments doit être géré via `grid` et / o
 Cette page contiendra une carte affichant les Points d'intérêt (POI) "Remonter le temps" de l'application Cartes IGN sur le fond WMTS "Plan IGN".
 
 Consignes :
+
 + Vous pouvez utiliser la librairie cartographique de votre choix ([Leaflet](https://web.iamvdo.me/webmapping/leaflet/), [Maplibre](https://web.iamvdo.me/webmapping/maplibre/) ou [Openlayers](https://web.iamvdo.me/webmapping/ol-carte/))
 + Accès à la documentation pour afficher le Plan IGN : [documentation sur cartes.gouv.fr](https://cartes.gouv.fr/aide/fr/guides-utilisateur/utiliser-les-services-de-la-geoplateforme/diffusion/wmts/)
     * LAYER : `GEOGRAPHICALGRIDSYSTEMS.PLANIGNV2`
