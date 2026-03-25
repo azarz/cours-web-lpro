@@ -8,12 +8,14 @@ Le site web sera constitué de 2 pages :
     + Une entête avec votre nom et ville de résidence
     + Un corps avec vos expériences professionnelles et formations
     + Une section listant vos compétences
-    + Un bouton qui fait appel à du javascript pour lancer l'impression du CV (qui ne doit pas apparaître sur le PDF !)
+    + Un bouton qui fait appel à du Javascript (et à la fonction `print()`) pour lancer l'impression du CV (qui ne doit pas apparaître sur le PDF !)
 
 - Une page contenant une carte affichant les POI "Remonter le temps" de l'application Cartes IGN sur le fond WMTS "Plan IGN".
-    + Les POI sont cliquables, affichant une pop-up avec les infos des propriétés `commune`, `département`, `accroche`, `titre` et `description` mises en forme.
-    + La popup contient un lien vers le site [https://remonterletemps.ign.fr/comparer/](https://remonterletemps.ign.fr/comparer/) ouvrant directement la bonne vue (par exemple, https://remonterletemps.ign.fr/comparer/?lon=1.703952&lat=47.996355&z=14&layer1=ORTHOIMAGERY.ORTHOPHOTOS.1950-1965&layer2=ORTHOIMAGERY.ORTHOPHOTOS&mode=vSlider)
-    + Données disponibles [ici](poi_rlt.json).
+    + Vous pouvez utiliser la librairie cartographique de votre choix (Leaflet, Maplibre ou Openlayers)
+    + Accès à la documentation pour afficher le Plan IGN : [documentation sur cartes.gouv.fr](https://cartes.gouv.fr/aide/fr/guides-utilisateur/utiliser-les-services-de-la-geoplateforme/diffusion/wmts/)
+    + Les POI sont cliquables, affichant une pop-up avec les infos des propriétés `commune`, `département`, `accroche`, `titre` et `description` mises en forme via CSS.
+    + La popup contient un lien vers le site [https://remonterletemps.ign.fr/comparer/](https://remonterletemps.ign.fr/comparer/) ouvrant directement la bonne vue à l'aide des propriétés du POI (par exemple, `https://remonterletemps.ign.fr/comparer/?lon=1.703952&lat=47.996355&z=14&layer1=ORTHOIMAGERY.ORTHOPHOTOS.1950-1965&layer2=ORTHOIMAGERY.ORTHOPHOTOS&mode=vSlider`)
+    + Données disponibles [ici](poi_rlt.json), à copier en local sur votre site, et à charger via `fetch()` [(API Fetch)](https://web.iamvdo.me/js/fetch/).
 
 - Les 2 pages seront reliées entre elles via un menu commun (latéral ou en en-tête) comprenant tous les liens du site.
 
