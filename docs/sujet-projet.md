@@ -16,6 +16,7 @@ Le site web sera constitué de 2 pages :
     + Les POI doivent être cliquables, affichant une pop-up avec les infos des propriétés `commune`, `département`, `accroche`, `titre` et `description` mises en forme via CSS.
     + La popup doit contenir un lien vers le site [https://remonterletemps.ign.fr/comparer/](https://remonterletemps.ign.fr/comparer/) ouvrant directement la bonne vue à l'aide des propriétés du POI (par exemple, `https://remonterletemps.ign.fr/comparer/?lon=1.703952&lat=47.996355&z=14&layer1=ORTHOIMAGERY.ORTHOPHOTOS.1950-1965&layer2=ORTHOIMAGERY.ORTHOPHOTOS&mode=vSlider`)
     + Données des POI disponibles [ici](poi_rlt.json) au format [GeoJSON](https://web.iamvdo.me/webmapping/notions/#formats-vecteurs), à copier en local sur votre site, et à charger via `fetch()` [(API Fetch)](https://web.iamvdo.me/js/fetch/).
+    + Icone des POI : [ici](comparePoi.png)
 
 - Les 2 pages seront reliées entre elles via un menu commun (latéral ou en en-tête) comprenant tous les liens du site.
 
