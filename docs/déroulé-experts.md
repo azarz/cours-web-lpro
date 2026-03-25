@@ -15,15 +15,16 @@ Jour 2 :
     + Langage
     + Langage avancé
         * Généralités
-        * ES6
         * DOM
-        * API HTML 5
-        * Promises
         * API Fetch
 
 Jour 3 :
 
 - Webmapping
+    + Notions générales
+    + Librairies carto
+        * Concepts
+        * Leaflet
 
 Jour 4 :
 
