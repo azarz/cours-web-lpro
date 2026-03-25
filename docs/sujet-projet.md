@@ -13,6 +13,13 @@ Le site web sera constitué de 2 pages :
 - Une page contenant une carte affichant les POI "Remonter le temps" de l'application Cartes IGN sur le fond WMTS "Plan IGN".
     + Vous pouvez utiliser la librairie cartographique de votre choix ([Leaflet](https://web.iamvdo.me/webmapping/leaflet/), [Maplibre](https://web.iamvdo.me/webmapping/maplibre/) ou [Openlayers](https://web.iamvdo.me/webmapping/ol-carte/))
     + Accès à la documentation pour afficher le Plan IGN : [documentation sur cartes.gouv.fr](https://cartes.gouv.fr/aide/fr/guides-utilisateur/utiliser-les-services-de-la-geoplateforme/diffusion/wmts/)
+        * LAYER : `GEOGRAPHICALGRIDSYSTEMS.PLANIGNV2`
+        * STYLE : `normal`
+        * FORMAT : `image/png`
+        * TILEMATRIXSET : `PM`
+        * TILEMATRIX : `{z}`
+        * TILECOL : `{x}`
+        * TILEROW : `{y}`
     + Les POI doivent être cliquables, affichant une pop-up avec les infos des propriétés `commune`, `departement`, `accroche`, `theme` et `texte` mises en forme via CSS.
     + La popup doit contenir un lien vers le site [https://remonterletemps.ign.fr/comparer/](https://remonterletemps.ign.fr/comparer/) ouvrant directement la bonne vue à l'aide des propriétés du POI
         * Exemple : `https://remonterletemps.ign.fr/comparer/?lon=1.703952&lat=47.996355&z=14&layer1=ORTHOIMAGERY.ORTHOPHOTOS.1950-1965&layer2=ORTHOIMAGERY.ORTHOPHOTOS&mode=vSlider`
