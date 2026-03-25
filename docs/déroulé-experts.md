@@ -15,6 +15,7 @@ Jour 2 :
     + Langage
     + Langage avancé
         * Généralités
+            - async/defer
         * DOM
         * API Fetch
 
