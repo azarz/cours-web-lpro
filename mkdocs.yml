@@ -9,6 +9,7 @@ nav:
         - Données POI RLT: poi_rlt.json
         - Icône POI RLT: comparePoi.png
         - Documentation WMTS IGN: https://cartes.gouv.fr/aide/fr/guides-utilisateur/utiliser-les-services-de-la-geoplateforme/diffusion/wmts/
+        - Données Métros: metros.json
 
 markdown_extensions:
     - attr_list
