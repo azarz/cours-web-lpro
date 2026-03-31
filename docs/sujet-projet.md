@@ -63,7 +63,9 @@ Les 2 pages seront reliées entre elles via un menu commun (latéral, en-tête o
 
 ### Page 3 (Bonus) UNIQUEMENT SI LES 2 PAGES PRÉCÉDENTES SONT 100% FONCTIONNELLES
 
-Faire l'exercice sur les métros : https://web.iamvdo.me/webmapping/exercices/2-metro/
+Faire l'exercice sur les métros : [https://web.iamvdo.me/webmapping/exercices/2-metro/](https://web.iamvdo.me/webmapping/exercices/2-metro/)
 
 Ne pas oublier d'ajouter le menu de navigation, et le lien vers cette page dans le menu de navigation des autres pages
+
+Si (et seulement si) les autres pages sont complètes, ce bonus sera pris en compte dans la notation (uniquement pour ajouter des points).
 
