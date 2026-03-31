@@ -2,7 +2,9 @@
 
 Le cours s'organise autour d'un projet de site web, sur lequel vous serez évalués.
 
-Le site web sera constitué de 2 pages
+Le site web sera constitué de 2 pages.
+
+[Lien du dossier où déposer votre rendu](https://drive.google.com/drive/folders/1I-zFpVJdTS-ww8PN6pN8qjqwZaetOAt8?usp=sharing) : créer un sous-dossier au format VOTRE_NOM_Votre_Prénom.
 
 ### Page 1 : CV
 Cette page utilisant HTML et CSS contiendra votre CV facilement convertible en PDF, utile pour vos demandes de stage
@@ -38,7 +40,6 @@ Consignes :
 
 ### Sur les 2 pages : Menu de navigation
 Les 2 pages seront reliées entre elles via un menu commun (latéral, en-tête ou pied-de-page) comprenant les liens du site, et éventuellement des liens externes et des informations complémentaires.
-
 
 ## Barème :
 
