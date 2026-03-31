@@ -64,7 +64,7 @@ Les 2 pages seront reliées entre elles via un menu commun (latéral, en-tête o
 
 ### Page 3 (Bonus) UNIQUEMENT SI LES 2 PAGES PRÉCÉDENTES SONT 100% FONCTIONNELLES
 
-Faire l'exercice sur les métros : [https://web.iamvdo.me/webmapping/exercices/2-metro/](https://web.iamvdo.me/webmapping/exercices/2-metro/)
+Faire l'exercice sur les métros : [https://web.iamvdo.me/webmapping/exercices/2-metro/](https://web.iamvdo.me/webmapping/exercices/2-metro/) avec le fichier GeoJSON suivant : [metros.json](metros.json)
 
 Ne pas oublier d'ajouter le menu de navigation, et le lien vers cette page dans le menu de navigation des autres pages
 
